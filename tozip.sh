@@ -1,5 +1,5 @@
 for dir in ./*/ ; do
-    # Entra na pasta da matéria
+    # Entra na pasta
     cd "$dir"
 
     # Apaga enventuais zips aqui
